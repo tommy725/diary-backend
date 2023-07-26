@@ -16,6 +16,6 @@ dep ensure
 go run main.go migrate
 
 ## start server
-go run main.go
+go run main.go 
 
 ```
